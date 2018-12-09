@@ -1,0 +1,2 @@
+# audio_chord_analysis
+librosaを使って音楽のコードを分析する
